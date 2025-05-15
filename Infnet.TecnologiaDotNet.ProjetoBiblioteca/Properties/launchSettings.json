@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Infnet.TecnologiaDotNet.ProjetoBiblioteca": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
